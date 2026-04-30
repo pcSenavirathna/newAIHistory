@@ -139,7 +139,6 @@ Desktop.ini
 
 # Generated audio files
 #*.wav
-*.mp3
 generated_audio_*.wav
 chapter_audio_*.wav
 
